@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "online-dictionary-app",
+    "slug": "snack-3a8fbbc7-02dd-4726-a90f-2c0271e20646",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is an online dictionary app in which people can search any word and they will get the meaning of the word."
+  }
+}
